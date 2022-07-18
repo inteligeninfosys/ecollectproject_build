@@ -5,7 +5,7 @@ node {
             checkout scm
       }
       stage("Docker build"){
-        app = docker.build("migutak/adlogin")
+        app = docker.build("migutak/ecollect")
       }
 
       stage('Test'){
