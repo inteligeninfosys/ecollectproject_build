@@ -5,7 +5,7 @@ node {
             checkout scm
       }
       stage("Docker build"){
-        app = docker.build("migutak/ecollect")
+        app = docker.build("inteligeninfosys/ecollect-cbi")
       }
 
       stage('Test'){

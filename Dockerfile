@@ -8,4 +8,4 @@ COPY ./ecollectv5 /usr/share/nginx/html
 
 EXPOSE 4430
 CMD ["nginx", "-g", "daemon off;"]
-# docker build -t migutak/ecollect:fix5 .
+# docker build -t inteligeninfosys/ecollect-cbi:1.0 .
