@@ -1,6 +1,10 @@
 {
   "configVersion": 1,
+<<<<<<< HEAD
   "timestamp": 1686500855547,
+=======
+  "timestamp": 1686492788212,
+>>>>>>> 784585db8aba1d1aef1a44494acbb69c07917b6c
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,13 +17,17 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
+<<<<<<< HEAD
         "/main.b80fca577c530ff57bc5.js",
+=======
+        "/main.d42282715d0e43440a8f.js",
+>>>>>>> 784585db8aba1d1aef1a44494acbb69c07917b6c
         "/manifest.webmanifest",
-        "/polyfills-es5.815d082035ccbba9b7d4.js",
-        "/polyfills.db9a4e98ee5921d131bd.js",
+        "/polyfills-es5.caddb762c12fad19873a.js",
+        "/polyfills.d688d7110708488ba40c.js",
         "/runtime.8728f9111242b10c7265.js",
         "/scripts.e1935f45163a9b951c7c.js",
-        "/styles.fcf02abe8ad7d00e80a9.css"
+        "/styles.3bdc7fefeaeaf4bbd078.css"
       ],
       "patterns": []
     },
@@ -564,8 +572,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/css/default/app.min.css": "42089fb676cb7a3499eb0187f73fec3f050e68af",
-    "/assets/css/default/cooploader.css": "c6634e6c22c166cc90b1dcfd4a7e3c5e9f9b77a2",
+    "/assets/css/default/app.min.css": "89f7a164339e730528b49d9fa0aa1c1167432922",
+    "/assets/css/default/cooploader.css": "a6491848af04c8fb003a10648128b03064728c29",
     "/assets/css/default/images/coming-soon.jpg": "b0f3b119c0c4b156c61730de6235c9b664a14c5e",
     "/assets/css/default/images/cover-pattern.png": "9ecef57487f2bfdca114f9efd16a25dcf6cb9e6d",
     "/assets/css/default/images/cover-sidebar-user.jpg": "133dfe815b2d4f301dc8bc6ed304cdc64a82bfcc",
@@ -597,30 +605,30 @@
     "/assets/css/default/images/ui-icons_777777_256x240.png": "4fc6b1449c73f5d10489c104225ebe326a4016ba",
     "/assets/css/default/images/ui-icons_cc0000_256x240.png": "1c7fc1ab71ed0d9fa051f07c7e8f43467121ebf7",
     "/assets/css/default/images/ui-icons_ffffff_256x240.png": "1769aa84191332e981245146067080ee4faa592a",
-    "/assets/css/default/theme/aqua.min.css": "374d36e41cb8e625b5ddf6a01c5599ca91a44dcb",
-    "/assets/css/default/theme/black.min.css": "b414f09def1fc55a620db0c82866e740e2b8766f",
-    "/assets/css/default/theme/blue.min.css": "ea37aceb527e30ccf4806512176d115c19600e3a",
-    "/assets/css/default/theme/green.min.css": "81547afea2e18dd68bdbc5713f006d467192e9cb",
-    "/assets/css/default/theme/indigo.min.css": "9fbf20a727dfad85f0b228486e6835534c3f2d54",
-    "/assets/css/default/theme/lime.min.css": "550afd99e4148b267f2d81e82835c5291e2f204f",
-    "/assets/css/default/theme/orange.min.css": "dd37e02eab3d8314c046e518272ad8781472eb0c",
-    "/assets/css/default/theme/pink.min.css": "9228150b13f4fa75480afb4f8d9637135c6eb5e4",
-    "/assets/css/default/theme/purple.min.css": "d8b55385a92eca8eeacebaa6d65f065cedd7794d",
-    "/assets/css/default/theme/red.min.css": "b08992267df0cefec3a4024888676a86c0cf3bc1",
-    "/assets/css/default/theme/teal.min.css": "738a36b4aaeeef7f4100f63b9665f7a9344649a3",
-    "/assets/css/default/theme/yellow.min.css": "12ab7e9ece81b70cb219ec3af9fc93cc4699a740",
+    "/assets/css/default/theme/aqua.min.css": "f2f2bccd9af97e74d5f9c0b134cecc35261a4782",
+    "/assets/css/default/theme/black.min.css": "b20b6037af0525f8025e4e83b4dc537ef5a4bae7",
+    "/assets/css/default/theme/blue.min.css": "1e12a09b477aa9108daacd929d787dce87708220",
+    "/assets/css/default/theme/green.min.css": "acf92561c1a1b15e2bad77e31a3189637bd3467b",
+    "/assets/css/default/theme/indigo.min.css": "0a84c020eeeb2cb8e1cb1e4a8f0b539ca7b51beb",
+    "/assets/css/default/theme/lime.min.css": "6cb7028bfa1833f934702a8f99ec8f6fd4ac43f8",
+    "/assets/css/default/theme/orange.min.css": "fd1afc6b91e3c40aaf41bbffd33dbd93ab09903b",
+    "/assets/css/default/theme/pink.min.css": "bda9aca439d478e06534c69833a6cf2c5f377aaf",
+    "/assets/css/default/theme/purple.min.css": "daf867d8b15f127d7fd662631e6eed590807c6a7",
+    "/assets/css/default/theme/red.min.css": "e8084ac175101f0eae94b0c6744a9857cb0c74de",
+    "/assets/css/default/theme/teal.min.css": "742bb1ceda134100f783d6368c9cf1dac51bedf6",
+    "/assets/css/default/theme/yellow.min.css": "4957c872fb487a2262ef47e1658c9845900cea7d",
     "/assets/css/webfonts/fa-brands-400.eot": "d4987ee41e0e4142d561f76b8ea8e034c4d5d9d2",
-    "/assets/css/webfonts/fa-brands-400.svg": "201f1f1e7e22aacadcf8050816a15a584fc9d135",
+    "/assets/css/webfonts/fa-brands-400.svg": "29e6c7e5a4d63d2c9563cd208456cb4f8a357868",
     "/assets/css/webfonts/fa-brands-400.ttf": "f34ee061900ecd1ed3d3fd9f8f47f4e84c6d56bf",
     "/assets/css/webfonts/fa-brands-400.woff": "91daac2bfba5e6a1a15ce44c53eab524d01c7fb0",
     "/assets/css/webfonts/fa-brands-400.woff2": "f356aa2e4d9b7245985d312d3bfba180f774e3b7",
     "/assets/css/webfonts/fa-regular-400.eot": "3ad44eb5c276d1435408f253ca78da729a1aca90",
-    "/assets/css/webfonts/fa-regular-400.svg": "c850047f1833b5a03b44ab47cb630fc39fa6bc45",
+    "/assets/css/webfonts/fa-regular-400.svg": "1622937e49766e21eacf4ac7065b711f0fe580e1",
     "/assets/css/webfonts/fa-regular-400.ttf": "114f35e6d9053caca2ef6d1e34fea3f87a59245b",
     "/assets/css/webfonts/fa-regular-400.woff": "f3f0ea4847825806062a9b7a0f629671eb6b6408",
     "/assets/css/webfonts/fa-regular-400.woff2": "830f8653e5f4a5331ac0b47c5701f65fe9f1bb32",
     "/assets/css/webfonts/fa-solid-900.eot": "be6b63d528286b1be2328d871c9bae95d8d57174",
-    "/assets/css/webfonts/fa-solid-900.svg": "e9f30a24d1ccf44af5ba29a7c26e41af6dc92e9d",
+    "/assets/css/webfonts/fa-solid-900.svg": "3a090431fdec61a25ed69b9e6f35a6656bde1595",
     "/assets/css/webfonts/fa-solid-900.ttf": "91b40a8f284159d9fff81dc522670ef68d562682",
     "/assets/css/webfonts/fa-solid-900.woff": "61f40daca6978e6e7ab761e748c2dd9d236c7586",
     "/assets/css/webfonts/fa-solid-900.woff2": "b2c74520c3f506efbfefca867918e5ae28bd5222",
@@ -633,12 +641,12 @@
     "/assets/icons/icon-72x72.png": "de551edce8220637a6e93b61aa4d9d1ec87e7419",
     "/assets/icons/icon-96x96.png": "99b2483c804ac1f5c819516be71cc72587cad1b0",
     "/assets/icons/ke.png": "befeba63f3da90e00d4eac0201da0b84b6c0b808",
-    "/assets/icons/ke.svg": "955b93fcc8fa5720bbee64fc9e9a22da97fe2f78",
+    "/assets/icons/ke.svg": "9c50bbcf32600d1ae2b0324e07f10fa41f7e6322",
     "/assets/img/Eclipse.gif": "596c9b688b904e9e40ab786acbce6964a04b9e06",
     "/assets/img/ajax-loader.gif": "2976080fc937efa41648fa1589ea2eda846c0f59",
     "/assets/img/clientaction.png": "89c628cf3b323cf844b0cff39557a3cf116e5dcb",
     "/assets/img/clientaction2.png": "ac857fe030bc256040e47742cb0d5e6b26519906",
-    "/assets/img/cooplogo.js": "e665d7dbf82aa669e3539d536fdfd0c487accabf",
+    "/assets/img/cooplogo.js": "63166442b90f3db1c61fd7d7da8f0554c0ff5bd3",
     "/assets/img/down.mp4": "e3d53d082afadb68649ff5617345934603235339",
     "/assets/img/here.gif": "417ad86eac440ab916a9688c76d4954ca8344d14",
     "/assets/img/login-bg/login-bg-11-thumb.jpg": "5d9851fbb2cbcfbed5a3e064cd92d68b63a85de0",
@@ -1091,15 +1099,23 @@
     "/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+<<<<<<< HEAD
     "/index.html": "caff82483bec13d74e22f50bd3bf411f31c6ff10",
     "/main.b80fca577c530ff57bc5.js": "f30f1aaa1171eb05ceaa8673b26d48f5d241b015",
     "/manifest.webmanifest": "81f30f24ae996a9f1c0c123df16bda880e02d04a",
     "/polyfills-es5.815d082035ccbba9b7d4.js": "8a1038b36b6c06e1d09f4da1c77f4a291a1295b4",
     "/polyfills.db9a4e98ee5921d131bd.js": "b3b629673908247f19d74a50b2f86d671a16c69a",
+=======
+    "/index.html": "4b3d83582f4f331d7e0a6cfe4c6c4293c8254e07",
+    "/main.d42282715d0e43440a8f.js": "babc16fc9976284f44ddf7ad6e75ce8c443c6b4e",
+    "/manifest.webmanifest": "f61c60a45ac9af6b31165fb81a3bcb2d0e49ee17",
+    "/polyfills-es5.caddb762c12fad19873a.js": "8a1038b36b6c06e1d09f4da1c77f4a291a1295b4",
+    "/polyfills.d688d7110708488ba40c.js": "b3b629673908247f19d74a50b2f86d671a16c69a",
+>>>>>>> 784585db8aba1d1aef1a44494acbb69c07917b6c
     "/profile-cover.dc1fc7b61dac9593221d.jpg": "f78dcad20a0a477d82ad50bca2396a2de045bb3f",
     "/runtime.8728f9111242b10c7265.js": "715a78fb57c95f670b7594e3f69690d590ebe1ee",
     "/scripts.e1935f45163a9b951c7c.js": "209b38b590ab55bccc5b33d5a494300f92570b7e",
-    "/styles.fcf02abe8ad7d00e80a9.css": "42e1186c6639c3d933fbb63bd278e103735f3d43"
+    "/styles.3bdc7fefeaeaf4bbd078.css": "1dffceb87ecb0ae9fa9314ef72f96c7f7f5f3390"
   },
   "navigationUrls": [
     {
