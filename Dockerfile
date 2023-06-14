@@ -1,5 +1,8 @@
 FROM ubuntu/nginx
 
+RUN apt-get update -y
+RUN apt install curl -y
+
 #### copy nginx conf
 COPY ./nginx.conf /etc/nginx/conf.d/default.conf
 
