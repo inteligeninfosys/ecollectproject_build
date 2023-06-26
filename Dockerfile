@@ -11,4 +11,5 @@ COPY ./ecollectv5 /usr/share/nginx/html
 
 EXPOSE 4430
 CMD ["nginx", "-g", "daemon off;"]
-# docker build -t inteligeninfosys/ecollect-cbi:1.0 .
+# docker build -t inteligeninfosys/ecollect-cbi:fix_1.1 .
+# docker build -t migutak/ecollect-cbi:fix_1.6 .
